@@ -4,7 +4,7 @@
 #
 Name     : nginx-rtmp-module
 Version  : 1.2.2
-Release  : 29
+Release  : 30
 URL      : https://github.com/arut/nginx-rtmp-module/archive/v1.2.2/nginx-rtmp-module-1.2.2.tar.gz
 Source0  : https://github.com/arut/nginx-rtmp-module/archive/v1.2.2/nginx-rtmp-module-1.2.2.tar.gz
 Summary  : No detailed summary available
